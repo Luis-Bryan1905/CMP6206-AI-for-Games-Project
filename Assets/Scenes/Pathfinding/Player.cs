@@ -3,10 +3,6 @@ using UnityEngine.InputSystem;
 
 public class Player : MonoBehaviour
 {
-
-    float x = 0.0f;
-    float y = 0.0f;
-    float z = 0.0f; 
     public int Speed = 3;
 
     public float MaxX = 0.0f;

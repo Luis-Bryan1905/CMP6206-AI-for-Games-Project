@@ -5,8 +5,9 @@ public class Predator : MonoBehaviour
     public GameObject Pathfinding;
 
     Grid grid;
-
-    bool PreySpotted;
+    
+    public  bool PreySpotted;
+    public GameObject Prey;
 
     bool active;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -24,5 +25,11 @@ public class Predator : MonoBehaviour
     void FollowPath()
     {
 
+    }
+
+    public void SpotPrey()
+    {
+        PreySpotted = true;
+        Debug.Log("PREY SPOTTED");
     }
 }

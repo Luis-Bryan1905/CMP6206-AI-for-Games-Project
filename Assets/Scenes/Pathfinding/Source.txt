@@ -1,5 +1,8 @@
 Source:
 
-Gird, Node and Pathfinding Code:
+Grid, Node and Pathfinding Code:
 https://www.youtube.com/playlist?list=PLFt_AvWsXl0cq5Umv3pMC9SPnKjfp9eGW
 Current E03: 15:30
+
+Predator Eye Code:
+https://www.youtube.com/watch?v=j1-OyLo77ss

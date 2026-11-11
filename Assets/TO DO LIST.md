@@ -11,16 +11,18 @@
 * ~~Basic Pathfinding algorithm~~
 * Enemy AI: Follow Path
 * Enemy AI: Behaviour Tree
-* Enemy AI: Sensors
+* ~~Enemy AI: Eye Sensors~~
+* Enemy AI: Ear Sensors
 * ~~Add basic player~~
-* Add sensor triggers
+* ~~Add eye sensor triggers~~
+* Add ear sensor triggers
 * Create scene
-* Add animal model
+* ~~Add animal model~~
 * Implement animation
 
 
 
-**2/9 = 22% COMPLETE**
+**5/11 = 45% COMPLETE**
 
 
 
@@ -28,12 +30,19 @@
 
 #### Objective:
 
-* a
+* Player must use items to lure the scavenger animal towards a goal/trap, however if the animal sport the player it will run and hide for a bit until re-emerging.
 
 #### Features:
 
 * Enemy AI: Finite State Machine
-* Enemy AI: Sensors
+* Enemy AI: Eye Sensors
+* Enemy AI: Ear Sensors
+* Add eye sensor triggers
+* Add ear sensor triggers
+* Enemy AI: Find Item
+* Enemy AI: Travel to Item
+* Enemy AI: Run to hiding spot when detected.
+* Enemy AI: Re-emerge from hiding spot
 * Add basic player
 * Add sensor triggers
 * Create scene
@@ -42,7 +51,7 @@
 
 
 
-**0/0 = 0% COMPLETE**
+**0/14 = 0% COMPLETE**
 
 
 
@@ -50,13 +59,13 @@
 
 #### Objective:
 
-* a
+* TBD
 
 #### Features:
 
-* a
-* a
-* a
+* TBD
+* TBD
+* TBD
 * Create scene
 * Add animal model
 * Implement animations
@@ -78,5 +87,5 @@
 
 
 
-**1/6 = 0% COMPLETE**
+**1/6 = 16% COMPLETE**
 
